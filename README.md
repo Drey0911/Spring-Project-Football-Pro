@@ -1,9 +1,4 @@
 # SpringJPARelations Football pro
-
-<p align="center">
-  <img src="img/logo.png" alt="SpringJPARelations Logo" width="300">
-</p>
-
 ## Tecnologías
 
 <p align="center">
